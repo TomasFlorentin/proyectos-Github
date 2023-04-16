@@ -1,0 +1,13 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+    background-color: rgba(243, 235, 235, 0.715);
+}
+
+input{
+    display: block;
+    margin: auto;
+    margin-bottom: 15px;
+    padding: 2%;
+}
+
